@@ -17,3 +17,4 @@ Day 3 : Overview of Cloud & Hyperscaler- AWS : https://prezi.com/view/QTYN0akbrq
         AWS login url: https://ashwin-aws-try.signin.aws.amazon.com/console
         IAM username: team-5
 
+Day 4: Overview of Cloud & Hyperscaler- Azure: https://prezi.com/view/vD91Jsw7FU3BhbOHqKAD/?referral_token=WBDF2dlnB3FN
