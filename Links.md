@@ -18,3 +18,5 @@ Day 3 : Overview of Cloud & Hyperscaler- AWS : https://prezi.com/view/QTYN0akbrq
         IAM username: team-5
 
 Day 4: Overview of Cloud & Hyperscaler- Azure: https://prezi.com/view/vD91Jsw7FU3BhbOHqKAD/?referral_token=WBDF2dlnB3FN
+
+Day 5: Overview of Cloud & Hyperscaler- GCP: https://prezi.com/view/rCnBYMu28XuOga4UGhIr/?referral_token=WBDF2dlnB3FN
