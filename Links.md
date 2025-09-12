@@ -20,3 +20,9 @@ Day 3 : Overview of Cloud & Hyperscaler- AWS : https://prezi.com/view/QTYN0akbrq
 Day 4: Overview of Cloud & Hyperscaler- Azure: https://prezi.com/view/vD91Jsw7FU3BhbOHqKAD/?referral_token=WBDF2dlnB3FN
 
 Day 5: Overview of Cloud & Hyperscaler- GCP: https://prezi.com/view/rCnBYMu28XuOga4UGhIr/?referral_token=WBDF2dlnB3FN
+
+
+Some reference links to master devops
+**https://github.com/milanm/DevOps-Roadmap**
+**https://github.com/MichaelCade/90DaysOfDevOps**
+**https://github.com/Tikam02/DevOps-Guide**
