@@ -23,6 +23,6 @@ Day 5: Overview of Cloud & Hyperscaler- GCP: https://prezi.com/view/rCnBYMu28XuO
 
 
 Some reference links to master devops
-**https://github.com/milanm/DevOps-Roadmap**
-**https://github.com/MichaelCade/90DaysOfDevOps**
-**https://github.com/Tikam02/DevOps-Guide**
+1. **https://github.com/milanm/DevOps-Roadmap**
+2. **https://github.com/MichaelCade/90DaysOfDevOps**
+3. **https://github.com/Tikam02/DevOps-Guide**
