@@ -21,6 +21,8 @@ Day 4: Overview of Cloud & Hyperscaler- Azure: https://prezi.com/view/vD91Jsw7FU
 
 Day 5: Overview of Cloud & Hyperscaler- GCP: https://prezi.com/view/rCnBYMu28XuOga4UGhIr/?referral_token=WBDF2dlnB3FN
 
+Day 6: Introduction to Linux Linux Basics & Scripting: https://prezi.com/view/1cj3lluBZw508WhMrwSF/?referral_token=WBDF2dlnB3FN
+
 
 Some reference links to master devops
 1. **https://github.com/milanm/DevOps-Roadmap**
