@@ -1,0 +1,29 @@
+{
+    "Current batch": {
+        "name": "V-17",
+        "age": 24,
+        "isStudent": false,
+        "courses": [
+            "DevOps",
+            "Python"
+        ]
+    },
+    "Next batch": {
+        "name": "V-17",
+        "age": 24,
+        "isStudent": false,
+        "courses": [
+            "Ansible",
+            "Terraform"
+        ]
+    },
+    "Future Batch": {
+        "name": "V-17",
+        "age": 24,
+        "isStudent": false,
+        "courses": [
+            "Cloud",
+            "Multicloud"
+        ]
+    }
+}
