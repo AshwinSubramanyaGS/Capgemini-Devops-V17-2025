@@ -26,8 +26,10 @@ difference = datetime(2023, 12, 31) - datetime(2023, 1, 1) # Returns timedelta
 # Timezone handling (requires pytz or Python 3.9+ zoneinfo)
 
 utc_now = datetime.now(timezone.utc)
+
 # Timestamps
 timestamp = datetime.now().timestamp() # Seconds since epoch
 dt_from_ts = datetime.fromtimestamp(timestamp)
+
 # Sleeping (from time module)
 time_module.sleep(2.5) # Sleep for 2.5 seconds
